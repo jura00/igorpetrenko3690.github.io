@@ -312,7 +312,7 @@ http://92.43.140.249/s77/04.m3u8
 #EXTINF:-1 tvg-id="mama" tvg-name="Мама" tvg-logo="http://ladamedia.ru/site/upload/mama(1).jpg" group-title="Kids",Мама (Opt-2)
 http://ott-cdn.ucom.am/s77/index.m3u8
 #EXTINF:-1 tvg-id="match-boets" tvg-name="Матч! Боец" tvg-logo="https://iptvx.one/icn/match-boec.png" group-title="Sport",Матч! Боец
-http://78.29.1.82/live/boets/copy/playlist.m3u8
+http://178.57.121.38:8080/boec/index.m3u8
 #EXTINF:-1 tvg-id="match-tv" tvg-name="Матч! HD" tvg-logo="https://iptvx.one/icn/match.png" group-title="Sport",Матч! ТВ (Opt-1)
 http://176.114.16.54:80/match/index.m3u8
 #EXTINF:-1 tvg-id="match-tv" tvg-name="Матч! HD" tvg-logo="https://iptvx.one/icn/match.png" group-title="Sport",Матч! ТВ (Opt-2)
