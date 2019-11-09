@@ -1934,3 +1934,434 @@ http://strm.yandex.ru/kal/volga_supres/volga_supres0_43_480p.json/index-v1-a1.m3
 #EXTINF:-1,ДЗЕРЖИНСК
 #EXTGRP:РЕГИОНАЛЬНЫЕ
 http://strm.yandex.ru/kal/dzertv/dzertv0_54_480p.json/index-v1-a1.m3u8
+
+#EXTINF:0,[Обновлён 02.11.2019 01:30 | каналов 139]
+#EXTGRP:- IPTV webarmencomiptv
+https://webarmen.com/my/iptv/uploads/files/videoplayback.mp4
+#EXTINF:0,[Ваша поддержка помогает развивать проект и улучшать его качество!]
+#EXTGRP:- IPTV webarmencomiptv
+https://webarmen.com/my/iptv/uploads/files/videoplayback.mp4
+#EXTINF:0,[Telegram
+#EXTGRP:unsorted
+https://t.me/webarmen | Группа https://vk.com/iptvweb]#EXTGRP:- IPTV webarmen.com/iptvhttps://webarmen.com/my/iptv/uploads/files/dog.mp4
+#EXTINF:0,[Пожертвования
+#EXTGRP:unsorted
+https://webarmen.com/iptv]#EXTGRP:- IPTV webarmen.com/iptvhttps://webarmen.com/my/iptv/uploads/files/videoplayback.mp4
+#EXTINF:0,Q4 | РБК
+#EXTGRP:Новости
+http://178.65.84.55:82/play/a01m
+#EXTINF:0,Q3 | Первый канал
+#EXTGRP:Новости
+http://188.242.199.174:81/udp/239.239.1.64:5239
+#EXTINF:0,Q4 | Ru TV
+#EXTGRP:Новости
+http://2.60.44.15:1234/udp/233.7.70.63:5000
+#EXTINF:0,Q5 | Дождь
+#EXTGRP:Новости
+http://46.23.159.198:1234/udp/239.1.13.6:1234
+#EXTINF:0,Q5 | Россия 24
+#EXTGRP:Новости
+http://83.139.178.198:4022/udp/235.1.10.7:10000
+#EXTINF:0,Q1 | Россия 1
+#EXTGRP:Новости
+http://176.51.175.192:1234/udp/225.54.205.130:5000
+#EXTINF:0,Q5 | BBC World News
+#EXTGRP:Новости
+http://91.219.198.63:8000/play/a00h/index.m3u8
+#EXTINF:0,Q5 | Россия 1 HD
+#EXTGRP:Новости
+http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
+#EXTINF:0,Q4 | Первый канал HD
+#EXTGRP:Новости
+http://193.233.179.253:999/udp/239.191.254.217:15283
+#EXTINF:0,Q5 | Москва 24
+#EXTGRP:Новости
+http://37.232.180.226:1/udp/233.49.170.129:5000
+#EXTINF:0,Q4 | RTVI
+#EXTGRP:LIVE
+http://178.124.183.12/hls/PN9VRQ5DGR/bw1200000/playlist.m3u8
+#EXTINF:0,Q5 | Рен ТВ
+#EXTGRP:Развлекательные
+http://188.68.117.41:30000/udp/239.255.10.93:5500
+#EXTINF:0,Q5 | ТВ Центр
+#EXTGRP:Развлекательные
+http://uiptv.do.am/1ufc/000000009/playlist.m3u8
+#EXTINF:0,Q5 | 1+1
+#EXTGRP:Развлекательные
+http://109.248.203.104:6883/ace/getstream?id=afeeb4c9336716ed180d0056e71bef27284c0116
+#EXTINF:0,Q1 | КВН ТВ
+#EXTGRP:Развлекательные
+http://212.19.30.246:999/udp/239.191.254.207:13343
+#EXTINF:0,Q2 | E TV
+#EXTGRP:Развлекательные
+http://193.233.179.253:999/udp/239.191.254.77:13343
+#EXTINF:0,Q1 | СТС
+#EXTGRP:Развлекательные
+http://91.122.59.174:9981/stream/channelid/68046611
+#EXTINF:0,Q5 | Ю
+#EXTGRP:Развлекательные
+http://188.68.117.41:30000/udp/239.255.10.22:5500
+#EXTINF:0,Q3 | Домашний
+#EXTGRP:Развлекательные
+http://176.51.177.72:1234/udp/225.54.205.142:5000
+#EXTINF:0,Q3 | Че
+#EXTGRP:Развлекательные
+http://178.65.84.55:81/play/a005
+#EXTINF:0,Q5 | FOX
+#EXTGRP:Развлекательные
+http://178.65.84.55:81/play/a00d
+#EXTINF:0,Q5 | НТВ HD
+#EXTGRP:Развлекательные
+http://91.122.59.174:9981/stream/channelid/1234210341
+#EXTINF:0,Q5 | Культура
+#EXTGRP:Развлекательные
+http://109.248.79.39:4044/udp/239.195.50.5:1234
+#EXTINF:0,Q4 | ТВ-3
+#EXTGRP:Развлекательные
+http://188.68.117.41:30000/udp/239.255.10.156:5500
+#EXTINF:0,Q4 | 5 канал
+#EXTGRP:Развлекательные
+http://83.139.178.198:4022/udp/235.1.10.5:10000
+#EXTINF:0,Q5 | Пятница
+#EXTGRP:Развлекательные
+http://188.242.199.174:81/udp/239.239.2.3:5239
+#EXTINF:0,Q5 | ТНТ
+#EXTGRP:Развлекательные
+http://217.117.252.210:81/udp/230.3.3.188:5678
+#EXTINF:0,Q5 | НТВ
+#EXTGRP:Развлекательные
+http://89.208.68.175:1/udp/224.0.42.14:5000
+#EXTINF:0,Q5 | Рен ТВ HD
+#EXTGRP:Развлекательные
+http://194.28.152.59:81/udp/225.0.56.96:1234
+#EXTINF:0,Q5 | Армения ТВ
+#EXTGRP:Развлекательные
+http://188.35.9.26:11031/udp/160g
+#EXTINF:0,Q3 | Ani
+#EXTGRP:Детям
+http://46.50.138.148:81/udp/239.54.6.109:1234
+#EXTINF:0,Q5 | Cartoon Network
+#EXTGRP:Детям
+http://193.233.179.253:999/udp/239.191.254.15:13343
+#EXTINF:0,Q5 | Nickelodeon HD
+#EXTGRP:Детям
+http://95.183.94.35:4022/udp/234.5.2.51:1234
+#EXTINF:0,Q3 | О!
+#EXTGRP:Детям
+http://185.184.233.174:5000/udp/225.1.2.148:1234
+#EXTINF:0,Q5 | Рыжий
+#EXTGRP:Детям
+http://194.28.152.59:81/udp/225.0.55.101:1234
+#EXTINF:0,Q2 | TiJi
+#EXTGRP:Детям
+http://193.233.179.253:999/udp/239.191.254.138:13343
+#EXTINF:0,Q1 | Мульт
+#EXTGRP:Детям
+http://176.51.169.64:1234/udp/225.54.23.91:5000
+#EXTINF:0,Q1 | Nick Jr.
+#EXTGRP:Детям
+http://62.122.90.186:81/udp/238.1.2.8:1234
+#EXTINF:0,Q5 | FAN
+#EXTGRP:Детям
+http://37.235.251.87:81/udp/225.50.64.16:1234
+#EXTINF:0,Q1 | JimJam
+#EXTGRP:Детям
+http://5.136.241.152:1234/udp/225.54.23.99:5000
+#EXTINF:0,Q5 | TLUM HD
+#EXTGRP:Детям
+http://46.50.138.68:81/udp/239.54.6.181:1234
+#EXTINF:0,Q5 | FAN HD
+#EXTGRP:Детям
+http://37.195.233.96:81/udp/239.1.21.52:1234
+#EXTINF:0,Q3 | Мульт и музыка
+#EXTGRP:Детям
+http://176.51.177.72:1234/udp/233.7.70.134:5000
+#EXTINF:0,Q5 | Карусель
+#EXTGRP:Детям
+http://188.68.117.41:30000/udp/239.255.10.25:5500
+#EXTINF:0,Q5 | Nickelodeon
+#EXTGRP:Детям
+http://176.51.169.64:1234/udp/233.7.70.52:5000
+#EXTINF:0,Q5 | Детский
+#EXTGRP:Детям
+http://109.171.67.140:81/udp/239.54.5.127:1224
+#EXTINF:0,Q5 | 2x2
+#EXTGRP:Детям
+http://89.208.24.104:1234/udp/230.3.4.22:5678
+#EXTINF:0,Q5 | Канал Disney
+#EXTGRP:Детям
+http://176.14.238.215:4022/udp/233.33.210.7:5050
+#EXTINF:0,Q2 | Еда Премиум
+#EXTGRP:Кулинария
+http://94.78.224.9:1234/udp/225.54.43.83:5000
+#EXTINF:0,Q4 | Кухня ТВ
+#EXTGRP:Кулинария
+http://178.65.84.55:81/play/a017
+#EXTINF:0,Q5 | Travel Channel
+#EXTGRP:Познавательные
+http://193.233.171.180:999/udp/239.191.254.134:13343
+#EXTINF:0,Q4 | Ocean TV
+#EXTGRP:Познавательные
+http://95.85.77.201:999/udp/239.191.254.54:13343
+#EXTINF:0,Q3 | Живи!
+#EXTGRP:Познавательные
+http://176.51.177.72:1234/udp/225.54.23.197:5000
+#EXTINF:0,Q5 | Живи HD
+#EXTGRP:Познавательные
+http://31.41.97.156:81/udp/225.0.56.54:1234
+#EXTINF:0,Q3 | Viasat Explore
+#EXTGRP:Познавательные
+http://176.51.175.192:1234/udp/233.7.70.16:5000
+#EXTINF:0,Q1 | Galaxy
+#EXTGRP:Познавательные
+http://212.20.9.144:1234/udp/225.54.23.159:5000
+#EXTINF:0,Q3 | Travel + adventure HD
+#EXTGRP:Познавательные
+http://46.23.159.198:1234/udp/239.1.17.4:1234
+#EXTINF:0,Q3 | Nat Geo Wild
+#EXTGRP:Познавательные
+http://92.125.146.189:1234/udp/233.7.70.43:5000
+#EXTINF:0,Q1 | Nat Geo Wild HD
+#EXTGRP:Познавательные
+http://95.85.77.201:999/udp/239.191.254.235:15283
+#EXTINF:0,Q2 | National Geographic HD
+#EXTGRP:Познавательные
+http://212.19.30.246:999/udp/239.191.254.230:15283
+#EXTINF:0,Q5 | DTX
+#EXTGRP:Познавательные
+http://178.65.84.55:82/play/a012
+#EXTINF:0,Q3 | Discovery Channel
+#EXTGRP:Познавательные
+http://176.51.177.72:1234/udp/233.7.70.12:5000
+#EXTINF:0,Q4 | Discovery Science HD
+#EXTGRP:Познавательные
+http://176.51.187.43:1234/udp/225.54.43.35:5000
+#EXTINF:0,Q3 | History
+#EXTGRP:Познавательные
+http://176.51.169.64:1234/udp/225.54.23.52:5000
+#EXTINF:0,Q4 | Наука 2.0
+#EXTGRP:Познавательные
+http://212.19.30.246:999/udp/239.191.254.19:13343
+#EXTINF:0,Q5 | RTG TV
+#EXTGRP:Познавательные
+http://193.233.180.5:999/udp/239.191.254.91:13343
+#EXTINF:0,Q5 | Discovery Channel HD
+#EXTGRP:Познавательные
+http://46.50.138.68:81/udp/239.54.7.86:1224
+#EXTINF:0,Q5 | Планета
+#EXTGRP:Познавательные
+http://217.117.252.210:81/udp/230.3.4.106:5678
+#EXTINF:0,Q3 | Viasat History
+#EXTGRP:Познавательные
+http://176.51.175.192:1234/udp/233.7.70.17:5000
+#EXTINF:0,Q5 | RTG HD
+#EXTGRP:Познавательные
+http://5.59.208.160:34040/udp/239.72.6.211:1234
+#EXTINF:0,Q5 | Travel + adventure
+#EXTGRP:Познавательные
+http://46.50.138.68:81/udp/239.54.6.197:1224
+#EXTINF:0,Q4 | Кино ТВ HD
+#EXTGRP:Фильмы
+http://194.28.152.59:81/udp/225.0.56.4:1234
+#EXTINF:0,Q1 | TV XXI
+#EXTGRP:Фильмы
+http://178.22.45.251:4022/udp/239.0.10.19:1234
+#EXTINF:0,Q1 | Кинокомедия
+#EXTGRP:Фильмы
+http://95.85.77.201:999/udp/239.191.255.39:13343
+#EXTINF:0,Q5 | Paramount Comedy HD
+#EXTGRP:Фильмы
+http://79.132.119.198:1212/udp/233.12.144.83:5050
+#EXTINF:0,Q2 | Кино ТВ
+#EXTGRP:Фильмы
+http://212.20.36.189:1234/udp/225.54.23.45:5000
+#EXTINF:0,Q5 | Киноменю HD
+#EXTGRP:Фильмы
+http://62.76.26.81:8081/hdmedia/menu/playlist.m3u8
+#EXTINF:0,Q4 | Amedia Premium HD
+#EXTGRP:Фильмы
+http://194.58.170.113:81/udp/239.195.4.1:1234
+#EXTINF:0,Q4 | Комедия
+#EXTGRP:Фильмы
+http://79.133.108.249:999/udp/239.191.254.56:13343
+#EXTINF:0,Q4 | Остросюжетное HD
+#EXTGRP:Фильмы
+http://188.35.9.26:14050/udp/238.0.14.3:69000
+#EXTINF:0,Q2 | Мужское кино HD
+#EXTGRP:Фильмы
+http://194.28.152.59:81/udp/225.0.56.11:1234
+#EXTINF:0,Q4 | Киносемья
+#EXTGRP:Фильмы
+http://89.208.24.104:1234/udp/230.3.4.66:5678
+#EXTINF:0,Q2 | Дом кино
+#EXTGRP:Фильмы
+http://176.51.175.192:1234/udp/225.54.23.33:5000
+#EXTINF:0,Q2 | Кинопремьера
+#EXTGRP:Фильмы
+http://90.189.237.183:1234/udp/225.54.53.108:5000
+#EXTINF:0,Q5 | Москва Доверие
+#EXTGRP:Фильмы
+http://77.51.48.254:4022/udp/233.3.2.23:5000
+#EXTINF:0,Q2 | Кинохит
+#EXTGRP:Фильмы
+http://217.117.113.24:4022/udp/230.3.4.65:5678
+#EXTINF:0,Q5 | Дом кино премиум HD
+#EXTGRP:Фильмы
+http://46.50.138.200:81/udp/239.54.6.224:1234
+#EXTINF:0,Q5 | Vip comedy HD
+#EXTGRP:Фильмы
+http://2.92.160.55:4022/udp/233.33.210.15:5050
+#EXTINF:0,Q5 | Мужское кино
+#EXTGRP:Фильмы
+http://178.163.122.40:4022/udp/234.0.0.213:2000
+#EXTINF:0,Q2 | НСТ
+#EXTGRP:Фильмы
+http://176.51.175.192:1234/udp/233.7.70.39:5000
+#EXTINF:0,Q2 | Дорама
+#EXTGRP:Сериалы
+http://193.233.179.253:999/udp/239.191.255.31:13343
+#EXTINF:0,Q4 | HBO
+#EXTGRP:Сериалы
+http://play.starbr.top/live/admteste20/vdfjvkdjk43453/1020.m3u8
+#EXTINF:0,Q4 | Spike
+#EXTGRP:Сериалы
+http://178.65.84.55:81/play/a01h
+#EXTINF:0,Q5 | Sony Turbo
+#EXTGRP:Сериалы
+http://178.65.84.55:81/play/a03b
+#EXTINF:0,Q3 | Fox Life HD
+#EXTGRP:Сериалы
+http://212.19.30.246:999/udp/239.191.254.231:15283
+#EXTINF:0,Q5 | Fox Life
+#EXTGRP:Сериалы
+http://79.133.108.249:999/udp/239.191.254.108:13343
+#EXTINF:0,Q3 | Загородная жизнь
+#EXTGRP:Сериалы
+http://95.85.77.201:999/udp/239.191.255.56:13343
+#EXTINF:0,Q2 | Супер
+#EXTGRP:Сериалы
+http://176.51.175.192:1234/udp/225.54.223.203:5000
+#EXTINF:0,Q1 | Zee tv
+#EXTGRP:Сериалы
+http://176.51.175.192:1234/udp/233.7.70.41:5000
+#EXTINF:0,Q1 | Sony Channel
+#EXTGRP:Сериалы
+http://46.50.138.148:81/udp/239.54.7.47:1224
+#EXTINF:0,Q4 | HBO HD
+#EXTGRP:Сериалы
+http://play.starbr.top/live/admteste20/vdfjvkdjk43453/1209.m3u8
+#EXTINF:0,Q5 | VH1 Classic
+#EXTGRP:Музыкальные
+http://178.163.24.158:4022/udp/234.0.0.223:2000
+#EXTINF:0,Q5 | 1HD
+#EXTGRP:Музыкальные
+http://94.19.167.157:55555/udp/239.239.3.84:5239
+#EXTINF:0,Q5 | Bridge TV
+#EXTGRP:Музыкальные
+http://178.65.84.55:82/play/a00h
+#EXTINF:0,Q5 | VH1 European
+#EXTGRP:Музыкальные
+http://37.195.3.13:81/udp/239.1.8.16:1234
+#EXTINF:0,Q2 | Sky Sport News
+#EXTGRP:Спорт
+http://95.90.128.181:9981/stream/channelid/1409176756
+#EXTINF:0,Q5 | SKY Sport News HD
+#EXTGRP:Спорт
+http://tv.fast-iptv.info:12974/live/Y1DPT1hAN9/W9fsyYiPRC/529.ts
+#EXTINF:0,Q2 | Eurosport 2
+#EXTGRP:Спорт
+http://176.51.177.72:1234/udp/233.7.70.14:5000
+#EXTINF:0,Q3 | Матч! HD
+#EXTGRP:Спорт
+http://212.19.30.246:999/udp/239.191.254.228:15283
+#EXTINF:0,Q5 | Охотник и рыболов HD
+#EXTGRP:Спорт
+http://217.117.252.210:81/udp/230.3.3.201:5678
+#EXTINF:0,Q5 | Охотник и рыболов
+#EXTGRP:Спорт
+http://176.110.248.49:34040/udp/238.1.2.9:1234
+#EXTINF:0,Q1 | Матч! Футбол 1 HD
+#EXTGRP:Спорт
+http://193.233.179.253:999/udp/239.191.255.132:15283
+#EXTINF:0,Q1 | Матч! Футбол 2 HD
+#EXTGRP:Спорт
+http://95.85.77.201:999/udp/239.191.255.133:15283
+#EXTINF:0,Q5 | Матч! Футбол 2
+#EXTGRP:Спорт
+http://212.19.30.246:999/udp/239.191.255.19:13343
+#EXTINF:0,Q2 | Матч! Футбол 3 HD
+#EXTGRP:Спорт
+http://193.233.179.253:999/udp/239.191.255.134:15283
+#EXTINF:0,Q4 | Матч! Футбол 3
+#EXTGRP:Спорт
+http://178.65.84.55:82/play/a00a
+#EXTINF:0,Q5 | EUROSPORT 1 HD
+#EXTGRP:Спорт
+http://5.2.44.217:81/udp/239.254.2.97:1234
+#EXTINF:0,Q4 | Eurosport 1
+#EXTGRP:Спорт
+http://176.51.177.72:1234/udp/233.7.70.13:5000
+#EXTINF:0,Q5 | Наш футбол HD
+#EXTGRP:Спорт
+http://217.117.252.210:81/udp/230.3.4.175:5678
+#EXTINF:0,Q4 | Bein Sport HD
+#EXTGRP:Спорт
+http://123orca.com:80/Ibrahim1/Ibrahim1/12070
+#EXTINF:0,Q1 | Viasat Sport
+#EXTGRP:Спорт
+http://90.189.140.146:1234/udp/233.7.70.15:5000
+#EXTINF:0,Q4 | Sky Sports 2
+#EXTGRP:Спорт
+http://kisotv.com:1557/live/VVr3IfuvD7/LZ3ye6p4Ep/805.ts
+#EXTINF:0,Q4 | BT Sport 2
+#EXTGRP:Спорт
+http://nettv-xcruiser.com:8000/Fv3kFxOzwM/wqbYInCdc8/12108
+#EXTINF:0,Q2 | Матч! Арена
+#EXTGRP:Спорт
+http://176.49.253.235:1234/udp/225.54.23.134:5000
+#EXTINF:0,Q2 | Матч! Игра HD
+#EXTGRP:Спорт
+http://193.233.179.253:999/udp/239.191.255.144:15283
+#EXTINF:0,Q5 | BT Sport 1 HD
+#EXTGRP:Спорт
+http://ontvbox.net:80/kBZOwqPNuM/Vq9ZLyAstE/12107
+#EXTINF:0,Q5 | UFC
+#EXTGRP:Спорт
+http://39.135.128.138/PLTV/88888888/224/3221226594/index.m3u8
+#EXTINF:0,Q5 | КХЛ
+#EXTGRP:Спорт
+http://178.163.24.158:4022/udp/234.0.0.208:2000
+#EXTINF:0,Q4 | Матч!
+#EXTGRP:Спорт
+http://176.51.177.72:1234/udp/225.54.205.131:5000
+#EXTINF:0,Q5 | Матч! Игра
+#EXTGRP:Спорт
+http://178.65.84.55:82/play/a00i
+#EXTINF:0,Q4 | Матч! Футбол 1
+#EXTGRP:Спорт
+http://79.133.108.249:999/udp/239.191.255.18:13343
+#EXTINF:0,Q5 | EUROSPORT 2 HD
+#EXTGRP:Спорт
+http://151.252.94.190:4022/udp/236.0.6.207:1120
+#EXTINF:0,Q5 | Наш футбол
+#EXTGRP:Спорт
+http://217.117.252.210:81/udp/230.3.4.29:5678
+#EXTINF:0,Q5 | КХЛ HD
+#EXTGRP:Спорт
+http://79.133.108.249:999/udp/239.191.254.233:15283
+#EXTINF:0,Q5 | BT Sport 1
+#EXTGRP:Спорт
+http://nettv-xcruiser.com:8000/Fv3kFxOzwM/wqbYInCdc8/12106
+#EXTINF:0,Q3 | BT Sport 2 HD
+#EXTGRP:Спорт
+http://nettv-xcruiser.com:8000/Fv3kFxOzwM/wqbYInCdc8/12109
+#EXTINF:0,Q1 | Animal Planet
+#EXTGRP:Животные
+http://176.51.175.192:1234/udp/225.54.23.60:5000
+#EXTINF:0,Q4 | Viasat Nature
+#EXTGRP:Животные
+http://31.41.97.156:81/udp/225.0.55.57:1234
+#EXTINF:0,Q5 | Animal Planet HD
+#EXTGRP:Животные
+http://178.65.84.55:82/play/a00f
+
